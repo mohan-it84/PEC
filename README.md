@@ -1,0 +1,2 @@
+# PEC
+simple student project
